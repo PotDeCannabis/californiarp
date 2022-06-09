@@ -1,4 +1,4 @@
--- Dev By Pots -- Respect FDP sinon j'te down perm --
+-- Dev By Pots -
 -- --------------------------------------------------------
 -- Hôte :                        127.0.0.1
 -- Version du serveur:           8.0.20 - MySQL Community Server - GPL
